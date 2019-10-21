@@ -1,1 +1,1 @@
-./config/_default/config.toml
+config = "./config/_default/config.toml"
