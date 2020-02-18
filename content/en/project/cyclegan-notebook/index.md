@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stock Price Indicator"
-summary: "This is a research about using ML algorithm to predict the stock price."
+title: "CycleGAN notebook"
+summary: "Practice implementing CycleGAN in Jupyter Notebooks"
 authors: ["ChengHan Wu"]
-tags: ["Machine Learning"]
-categories: ["Course Projects"]
-date: 2019-10-21T15:50:11+08:00
+tags: ["Deep Learning"]
+categories: ["Projects"]
+date: 2019-12-18T17:30:39+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,25 +15,22 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo by Markus Spiske on Unsplash"
+  caption: "Photo by Ron Dauphin on Unsplash"
   focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 links:
 - name: Github
-  url: https://github.com/henry32144/mlnd-capstone
+  url: https://github.com/henry32144/cyclegan-notebook
   icon_pack: fab
   icon: github
-- name: Proposal
-  url: https://github.com/henry32144/mlnd-capstone/blob/master/proposal.pdf
-  icon_pack: far
-  icon: file
-- name: Report
-  url: https://github.com/henry32144/mlnd-capstone/blob/master/report.pdf
-  icon_pack: far
-  icon: file-alt
 
 url_code: ""
 url_pdf: ""
@@ -47,7 +44,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-This is a research about using Machine Learning technique to predict the stock price.
-
- **(Don't use in real investment otherwise you'll lose money)**
+Implement CycleGAN with Tensorflow 2.0 and PyTorch 

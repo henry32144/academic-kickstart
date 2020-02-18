@@ -68,4 +68,4 @@ user_groups:
 
 Hi, I graduated from Computer Science at Tunghai University. I'm interested in Reinforcement Learning, Computer Vision, Generative Adversarial Networks and Artificial Intelligence applications. 
 
-Currently, I am waiting to serve my 4-month Military Service Obligation. During this time, I'm studying Computer Vision skills by participating in Kaggle competitions, also learning to make games. Hoping to apply the knowledge I learned about AI to make interesting games.
+I am going to serve my 4-month Military Service Obligation in 2020/2/19. In my free time, I'm studying Computer Vision skills by participating in Kaggle competitions, also learning to make games. Hoping to apply the knowledge I learned about AI to make interesting games.

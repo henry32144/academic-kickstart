@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stock Price Indicator"
-summary: "This is a research about using ML algorithm to predict the stock price."
-authors: ["ChengHan Wu"]
-tags: ["Machine Learning"]
-categories: ["Course Projects"]
-date: 2019-10-21T15:50:11+08:00
+title: "Kuzushiji Recognition"
+summary: "The solution of the kuzushiji recognition competition on kaggle."
+authors: ["ChengHan Wu", "LungIn Lin"]
+tags: ["Deep Learning"]
+categories: ["Projects"]
+date: 2019-10-21T18:23:42+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo by Markus Spiske on Unsplash"
+  caption: "Screenshot"
   focal_point: "Smart"
   preview_only: false
 
@@ -23,17 +23,9 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Github
-  url: https://github.com/henry32144/mlnd-capstone
+  url: https://github.com/henry32144/kaggle-kuzushiji
   icon_pack: fab
   icon: github
-- name: Proposal
-  url: https://github.com/henry32144/mlnd-capstone/blob/master/proposal.pdf
-  icon_pack: far
-  icon: file
-- name: Report
-  url: https://github.com/henry32144/mlnd-capstone/blob/master/report.pdf
-  icon_pack: far
-  icon: file-alt
 
 url_code: ""
 url_pdf: ""
@@ -47,7 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-This is a research about using Machine Learning technique to predict the stock price.
-
- **(Don't use in real investment otherwise you'll lose money)**
+This repo contains the jupyter notebook solution of kuzushiji recognition, we separate the recognition task into the detection part and the classification part.

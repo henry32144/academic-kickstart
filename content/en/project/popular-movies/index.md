@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Popular Movies"
-summary: "This is an app that provides movies information, and user can sort movies by popularity or ratings, add favorite movies, and watch trailers."
+summary: "This app allow user to get movies info, add favorite movies, and watch trailers."
 authors: ["ChengHan Wu"]
 tags: ["App"]
 categories: ["Course Projects"]

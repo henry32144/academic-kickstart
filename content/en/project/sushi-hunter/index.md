@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sushi Hunter"
-summary: "This project is for user to search sushi restaurants around, providing simple information about the restaurants, to help ninjas(?) solve their lunch problem."
+summary: "This website provides simple information about sushi restaurants around user."
 authors: ["ChengHan Wu"]
 tags: ["Website"]
 categories: ["Course Projects"]

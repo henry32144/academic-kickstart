@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Navigation"
-summary: "This project use DQN to train an agent to navigate (and collect bananas!) in a large, square world."
+summary: "Using DQN to train an agent to navigate in a large, square world."
 authors: ["ChengHan Wu"]
 tags: ["Reinforcement Learning"]
 categories: ["Course Projects"]

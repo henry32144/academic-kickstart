@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Health Tracker"
-summary: "This is a health tracker website, you can use it to track your daily calories, get food data from Nutritionix."
+summary: "This is a health tracker website to track daily calories."
 authors: ["ChengHan Wu"]
 tags: ["Website"]
 categories: ["Course Projects"]

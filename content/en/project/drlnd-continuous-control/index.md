@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Continuous Control"
-summary: "Training an agent to maintain double-jointed arms' position at the target location for as many time steps as possible."
+summary: "Training an agent to maintain double-jointed arms' position."
 authors: ["ChengHan Wu"]
 tags: ["Reinforcement Learning"]
 categories: ["Course Projects"]
