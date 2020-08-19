@@ -18,13 +18,12 @@ organizations:
   url: "http://www.cs.thu.edu.tw/web/about/page.php?lang=en&scid=51&sid=72"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Reinforcement Learning, Computer Vision, GANs and AI applications, also games.
+bio: 
 
 interests:
+- Full-stack Developing
 - Artificial Intelligence
-- Computer Vision
 - Games
-- GANs
 
 education:
   courses:
@@ -66,6 +65,6 @@ user_groups:
 - []
 ---
 
-Hi, I graduated from Computer Science at Tunghai University. I'm interested in Reinforcement Learning, Computer Vision, Generative Adversarial Networks and Artificial Intelligence applications. 
+A software engineer who enthusiast at learning and using technology to make the world more interesting.
 
-I am going to serve my 4-month Military Service Obligation in 2020/2/19. In my free time, I'm studying Computer Vision skills by participating in Kaggle competitions, also learning to make games. Hoping to apply the knowledge I learned about AI to make interesting games.
+Graduated from Tunghai University in Taiwan. Having experience in both Front-End and Back-End developing, Machine Learning and App developing. Love to try new things, and willing to overcome challenges. Passionate at product making, hope to solve user's problems with teammates.

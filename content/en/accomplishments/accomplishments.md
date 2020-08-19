@@ -58,14 +58,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "Japan Foundation and Japan Exchange Exchanges and Services"
-  organization_url = ""
-  title = "Japanese Language Proficiency Test – N2"
-  url = "https://www.jlpt.jp/e/"
-  certificate_url = "https://drive.google.com/file/d/1BKDac9bBQeih_k3cHJa6vNCIaKsxeJ69/view?usp=sharing"
-  date_start = "2017-08-20"
-  date_end = ""
-  description = ""
-
 +++
