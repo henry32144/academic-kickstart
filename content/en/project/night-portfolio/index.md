@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Aqua Lighting"
-summary: "Using app to control aquarium lighting device"
-authors: []
-tags: ["App"]
-categories: ["FreeLance Projects"]
-date: 2019-10-21T20:32:31+08:00
+title: "Night Portfolio"
+summary: "My new portfolio built with React.js"
+authors: ["ChengHan Wu"]
+tags: ["Website"]
+categories: ["Projects"]
+date: 2021-01-13T21:59:22+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,22 +15,27 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo by Delbert Pagayona on Unsplash"
-  focal_point: ""
+  caption: "Screenshot"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: App store
-  url: https://apps.apple.com/app/id1456211259
-  icon_pack: fab
-  icon: app-store-ios
-- name: Google Play
-  url: https://play.google.com/store/apps/details?id=com.fullway.coral
-  icon_pack: fab
-  icon: google-play
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
+links:
+  - name: Github
+    url: https://github.com/henry32144/portfolio
+    icon_pack: fab
+    icon: github
+  - name: Link
+    url: https://henry32144.github.io/portfolio/
+    icon_pack: far
+    icon: window-maximize
 
 url_code: ""
 url_pdf: ""
@@ -45,9 +50,4 @@ url_video: ""
 slides: ""
 ---
 
-Building IOS/Android Apps integrated with Amazon Web Services to control aquarium lighting device.
-
-This project is a freelance project I participated in. I made the part of IOS/Android Apps and AWS Services.
-
-
-
+My new portfolio website, I also utilize Bert QA model with Tensorflow.js to answer some of my questions.

@@ -23,6 +23,11 @@
   url = "certifications/"
   weight = 40
 
+[[main]]
+  name = "CV"
+  url = "https://drive.google.com/file/d/1ZyHNY8QgwGa0M16bipT4JPGg403CbADK/view?usp=sharing"
+  weight = 40
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #[[main]]

@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Full-stack Developing
+- Full-Stack Developing
 - Artificial Intelligence
 - Games
 
@@ -67,4 +67,4 @@ user_groups:
 
 A software engineer who enthusiast at learning and using technology to make the world more interesting.
 
-Graduated from Tunghai University in Taiwan. Having experience in both Front-End and Back-End developing, Machine Learning and App developing. Love to try new things, and willing to overcome challenges. Passionate at product making, hope to solve user's problems with teammates.
+Graduated from Tunghai University in Taiwan. Having experience in both Front-End and Back-End developing, Machine Learning and App developing. Love to try new things, and willing to overcome challenges. Passionate at product making, hope to make things which will improve many people life.
