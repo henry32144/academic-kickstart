@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Bachelor of Engineering
+role: Master of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Tunghai University
-  url: "http://www.cs.thu.edu.tw/web/about/page.php?lang=en&scid=51&sid=72"
+- name: University of California, Irvine
+  url: "https://uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Master of Computer Science
+    institution: University of California, Irvine
+    year: 2022
   - course: B.Eng. in Computer Science
     institution: Tunghai University
     year: 2019
@@ -65,6 +68,6 @@ user_groups:
 - []
 ---
 
-A software engineer who enthusiast at learning and using technology to make the world more interesting.
+A software engineer who is enthusiastic about learning and using technology to make the world more interesting.
 
-Graduated from Tunghai University in Taiwan. Having experience in both Front-End and Back-End developing, Machine Learning and App developing. Love to try new things, and willing to overcome challenges. Passionate at product making, hope to make things which will improve many people life.
+Currently pursuing MCS program at UCI. Graduated from Tunghai University in Taiwan. Having experience in both Front-End and Back-End development, Machine Learning, and App development. Love to try new things, and am willing to overcome challenges. Passionate at product making, hope to make things which will improve many people life.
