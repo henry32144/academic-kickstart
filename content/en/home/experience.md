@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.memopresso.com/"
   location = "Taipei"
   date_start = "2020-10-14"
-  date_end = ""
+  date_end = "2021-03-19"
   description = """Develop an augmented reality (“AR”) system using WebAR and object recognition techniques. This system allows
 users to scan their printed photos and then shows the videos they store in a database on the photos on screen such that
 it seems like users are printing videos and not just photos.
